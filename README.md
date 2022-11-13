@@ -6,7 +6,7 @@ This project is a datalake project that includes raw, cleaned, and aggregated da
 
 The Docker compose project includes a Spark cluster with a Spark Master and two Spark Nodes. It also includes a Jupyterlab for interactive testing of Spark codes. 
 
-## <a name="quick-start"></a>Quick Start
+## Quick Start
 
 1. Clone the repository to your local environment:
 
@@ -34,7 +34,7 @@ tar -xf yelp_dataset -C shared-workspace
 docker-compose up
 ```
 
-## <a name="project-steps"></a>Project Steps
+## Project Steps
 
 There are two data processing steps one of them creates raw and cleaned data and the other one creates aggregated data. Codes are available on shared-workspace\code.
 
