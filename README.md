@@ -1,4 +1,4 @@
-# Spark Project With Yelp Dataset on Docker
+# Spark Project with Yelp Dataset on Docker
 
 ## Introduction
 
